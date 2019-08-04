@@ -6,4 +6,4 @@ A C# dynamic link library for CountryDataSearch desktop application. See Country
 * How to use data contract to serialize/deserialize JSON files
 
 # Notice
-This is Dynamic Link Library. See CountryDataSearchInterface repository.
+This is Dynamic Link Library.
