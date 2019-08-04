@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSprogramming_CS_DLL_for_Country_Data", "CSprogramming_CS_DLL_for_Country_Data\CSprogramming_CS_DLL_for_Country_Data.csproj", "{7EABDDF5-D495-4D15-92D8-CD4BA88C882A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EABDDF5-D495-4D15-92D8-CD4BA88C882A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EABDDF5-D495-4D15-92D8-CD4BA88C882A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EABDDF5-D495-4D15-92D8-CD4BA88C882A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EABDDF5-D495-4D15-92D8-CD4BA88C882A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {883CD079-CBFD-4C44-88BF-E9A8E3BF07C2}
+	EndGlobalSection
+EndGlobal
