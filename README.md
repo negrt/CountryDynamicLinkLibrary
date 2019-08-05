@@ -10,5 +10,6 @@ This is Dynamic Link Library. Works with the following desktop application:
 
 * CountryDataSearchTool
 * CountryDatasetReaderWriter
+* AutomatedUnitTesting
 
 Repositories have been made for these appliations on my GitHub page.
