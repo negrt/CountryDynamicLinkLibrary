@@ -6,8 +6,9 @@ A C# dynamic link library for country data. I created this application in Visual
 * How to use data contract to serialize/deserialize JSON files
 
 # Notice
-This is Dynamic Link Library. Works with the following repositories:
+This is Dynamic Link Library. Works with the following desktop application:
 
-CountryDataSearchTool
+* CountryDataSearchTool
+* CountryDatasetReaderWriter
 
-CountryDatasetReaderWriter
+Repositories available on my GitHub page.
