@@ -9,4 +9,5 @@ A C# dynamic link library for country data. I created this application in Visual
 This is Dynamic Link Library. Works with the following repositories:
 
 CountryDataSearchTool
+
 CountryDatasetReaderWriter
