@@ -11,4 +11,4 @@ This is Dynamic Link Library. Works with the following desktop application:
 * CountryDataSearchTool
 * CountryDatasetReaderWriter
 
-Repositories available on my GitHub page.
+Repositories have been made for these appliations on my GitHub page.
